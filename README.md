@@ -1,8 +1,8 @@
-##detectMultiscale()
+## detectMultiscale()
 
 ---
 
-###These are the values which are usually given to detectMultiScale(...) as parameters.
+### These are the values which are usually given to detectMultiScale(...) as parameters.
 
 \***scaleFactor** : Parameter specifying how much the image size is reduced at each image scale.
 
@@ -24,4 +24,4 @@ This parameter determine how big size you want to detect. Again, you decide it! 
 
 ---
 
-######The explanation was given in [this](https://stackoverflow.com/questions/20801015/recommended-values-for-opencv-detectmultiscale-parameters) stackoverflow question.
+###### The explanation was given in [this](https://stackoverflow.com/questions/20801015/recommended-values-for-opencv-detectmultiscale-parameters) stackoverflow question.
