@@ -1,4 +1,4 @@
-## detectMultiscale()
+## FAQ : detectMultiscale()
 
 ### These are the values which are usually given to detectMultiScale(...) as parameters.
 
